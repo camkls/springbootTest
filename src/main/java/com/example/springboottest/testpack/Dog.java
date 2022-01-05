@@ -3,6 +3,7 @@ package com.example.springboottest.testpack;
 public class Dog {
     private int dno;
     private String dname;
+    private String downer;
 
     public int getDno() {
         return dno;
@@ -18,5 +19,13 @@ public class Dog {
 
     public void setDname(String dname) {
         this.dname = dname;
+    }
+
+    public String getDowner() {
+        return downer;
+    }
+
+    public void setDowner(String downer) {
+        this.downer = downer;
     }
 }
