@@ -39,4 +39,9 @@ public class UserController {
         }
         return "fail to insert!";
     }
+
+    @RequestMapping("branchDevTest")
+    public String testBranch(){
+        return "submit to dev branch!!!";
+    }
 }
