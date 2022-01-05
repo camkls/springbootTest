@@ -37,6 +37,6 @@ public class UserController {
         if (isSuc>0){
             return "success!";
         }
-        return "fail to insert!";
+        return "fail to insert!@@!";
     }
 }
