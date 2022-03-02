@@ -37,6 +37,7 @@ public class UserController {
         if (isSuc>0){
             return "success!";
         }
+        System.out.println("git add mat branch");
         return "fail to insert!@@!";
     }
 }
