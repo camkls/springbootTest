@@ -38,6 +38,7 @@ public class UserController {
             return "success!";
         }
         System.out.println("git add mat branch");
+        System.out.println("AA");
         return "fail to insert!@@!";
     }
 }
