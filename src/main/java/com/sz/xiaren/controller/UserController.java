@@ -1,7 +1,7 @@
-package com.example.springboottest.controller;
+package com.sz.xiaren.controller;
 
-import com.example.springboottest.entity.User;
-import com.example.springboottest.service.UserService;
+import com.sz.xiaren.entity.User;
+import com.sz.xiaren.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;

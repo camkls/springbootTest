@@ -1,7 +1,7 @@
-package com.example.springboottest.service;
+package com.sz.xiaren.service;
 
-import com.example.springboottest.dao.UserDao;
-import com.example.springboottest.entity.User;
+import com.sz.xiaren.dao.UserDao;
+import com.sz.xiaren.entity.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

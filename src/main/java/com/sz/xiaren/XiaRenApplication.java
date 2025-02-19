@@ -1,15 +1,14 @@
-package com.example.springboottest;
+package com.sz.xiaren;
 
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-@MapperScan("com.example.springboottest.dao")
-public class SpringbootTestApplication {
+public class XiaRenApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringbootTestApplication.class, args);
+        SpringApplication.run(XiaRenApplication.class, args);
     }
 
 }
