@@ -1,6 +1,6 @@
-package com.example.springboottest.dao;
+package com.sz.xiaren.dao;
 
-import com.example.springboottest.entity.User;
+import com.sz.xiaren.entity.User;
 import org.apache.ibatis.annotations.Mapper;
 
 import java.util.List;
