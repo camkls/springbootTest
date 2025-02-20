@@ -1,7 +1,7 @@
-package com.example.springboottest.controller;
+package com.sz.xiaren.controller;
 
-import com.example.springboottest.entity.User;
-import com.example.springboottest.service.RedisService;
+import com.sz.xiaren.entity.User;
+import com.sz.xiaren.service.RedisService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

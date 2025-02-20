@@ -1,4 +1,4 @@
-package com.example.springboottest.service;
+package com.sz.xiaren.service;
 
 import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.data.redis.core.ValueOperations;
